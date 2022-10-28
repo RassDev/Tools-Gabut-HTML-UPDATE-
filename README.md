@@ -13,7 +13,7 @@
 - DNS Scanner Online (✅)<br>
 - Traceroute Online (✅)<br>
 - QR Code Scanner (✅)<br>
-- QR Code Generator (✅)<br
+- QR Code Generator (✅)<br>
 - IP Lookup Online (✅)<br>
 - Phising Facebook Online (No Termux) (✅)<br>
 - DDoS Online (✅)<br>
